@@ -252,7 +252,7 @@ selectedWords BYTE "                    ", 0
 
 msg1 BYTE "Guess a Letter:: ",0
 msg4 BYTE "Guessed letter are: ",endline,0
-msg2 BYTE "Do you Want to restart Game Press 1 :: ",endline,0
+msg2 BYTE "Do you want to restart the game? Press 1 :: ",endline,0
 errormessage BYTE "Your input is already exist try another one.......",endline,0
 
 endmsg BYTE "Thank You For Playing Game Hope you like it..............",endline,0
